@@ -147,3 +147,5 @@ export PATH="$HOME/.poetry/bin:$PATH"
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 source ~/.aliases
+source ~/.export
+source ~/.functions
